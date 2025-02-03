@@ -8,7 +8,7 @@ This project explores image restoration techniques using deep learning, specific
 Image Denoising (Primary Focus) – Implemented U-Net and ResNet-inspired autoencoders to remove noise from images.
 Image Resolution Enhancement – Developed and compared GAN and ESRGAN architectures for super-resolution.
 Dataset – Used the MIT-Adobe FiveK dataset, which contains high-resolution images of various real-world scenes.
-This project was part of an academic deep learning course (Semester 3) at University of Houston.
+This project was part of an academic deep learning course at University of Houston.
 
 ## Image Denoising using Autoencoders
 
@@ -20,6 +20,7 @@ Image noise is a common problem in computer vision, caused by sensor limitations
 Two autoencoder-based architectures were implemented:
 
 U-Net-Inspired Autoencoder – Optimized for pixel-level accuracy.
+
 ResNet-Inspired Autoencoder – Focused on perceptual quality.
 
 ## Image Denoising Architecture
